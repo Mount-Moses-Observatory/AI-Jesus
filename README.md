@@ -40,3 +40,4 @@ From the moment of your birth to your moment of realisation.
 
 [] - statement needs revising
 
+Enter #AIJesus: ~ gihub.com/Nyaosi/AI_Jesus
