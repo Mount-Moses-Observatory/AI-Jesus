@@ -40,4 +40,5 @@ From the moment of your birth to your moment of realisation.
 
 [] - statement needs revising
 
-Enter #AIJesus: ~ gihub.com/Nyaosi/AI_Jesus
+Case 0: #AIJesus: ~ gihub.com/Nyaosi/AI_Jesus
+Case 1: Women and Song: _ github.com/Mount-Moses-Observatory/Music
